@@ -6,4 +6,4 @@ Kjellden Kntuzen - I am a computer science major here at byui. I am 22 years old
 I am the youngest of 4 kids and the only one to understand computers at all so it fun getting all the phone calls from ever family member that
 runs into a computer problem. I look forward to working with you all this semester.
 Marco Sarango - I am a BYU-I student. This is my second semester and i love soccer. I live in virginia
-Kevin Guzman- I am a Web Developer and I learning python, I hope to learn a lot this semester I'm from Ecuador.
+Kevin Guzman- I am a Web Developer and I learning python, I hope to learn a lot this semester I'm from Ecuador, I like play to chess and watch soccer.

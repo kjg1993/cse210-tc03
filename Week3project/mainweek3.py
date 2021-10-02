@@ -8,6 +8,9 @@ rainey_function()
 from sarango import name
 name()
 
+from guzman import guzman_say
+guzman_say()
+
 
 
 
